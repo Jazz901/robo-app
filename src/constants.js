@@ -1,0 +1,10 @@
+export const CHANGE_SEARCH_FIELD = 'CHANGE_SEARCH_FIELD';
+
+// This is a promise  -> 3 States -> 1. Pending
+export const ROBOTS_REQUEST_PENDING = 'ROBOTS_REQUEST_PENDING';
+
+export const ROBOTS_REQUEST_SUCCESS = 'ROBOTS_REQUEST_SUCCESS';
+
+export const ROBOTS_REQUEST_FAILED = 'ROBOTS_REQUEST_FAILED';
+
+
